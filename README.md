@@ -1,7 +1,7 @@
-# lumixengine_shader_editor
+# Phantasm_shader_editor
 
 ![Screenshot](screenshot.png)
 
-Visual shader editor for Lumix Engine
+Visual shader editor for Phantasm
 
 
